@@ -7,5 +7,5 @@ fi
 
 tag=$1
 
-docker build -t quay.io/woohhan/dbxfs:${tag} -f Dockerfile .
-docker push quay.io/woohhan/dbxfs:${tag}
+docker build -t ghcr.io/feelpp/dbxfs:${tag} -f Dockerfile .
+docker push ghcr.io/feelpp/dbxfs:${tag}

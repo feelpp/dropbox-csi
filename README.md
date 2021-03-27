@@ -1,4 +1,4 @@
-# Kubernetes CSI for Dropbox ![Dropbox-CSI](https://github.com/woohhan/dropbox-csi/workflows/Dropbox-CSI/badge.svg?branch=master)
+# Kubernetes CSI for Dropbox ![Dropbox-CSI](https://github.com/feelpp/dropbox-csi/workflows/Dropbox-CSI/badge.svg?branch=master)
 ## Overview
 Kubernetes Dropbox-CSI plugin is developed to manage dropbox on kubernetes.
 
@@ -27,5 +27,5 @@ kubectl create -f deploy/pod.yaml
 ```
 
 ## Troubleshooting
-Please submit an issue at [Issues](https://github.com/woohhan/dropbox-csi/issues).
-You can use both english and korean. If you have other questions please contact: Woohyung Han (woohhan@gmail.com)
+Please submit an issue at [Issues](https://github.com/feelpp/dropbox-csi/issues).
+You can use both english and korean. If you have other questions please contact: Woohyung Han (feelpp@gmail.com)
